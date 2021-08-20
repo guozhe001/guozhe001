@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guozhe001
-- 👀 I’m interested in blockchain，golang，java。
+- 👀 I’m interested in blockchain，java，python，golang。
 - 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me: guozhegz@gmail.com
